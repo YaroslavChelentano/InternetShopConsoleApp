@@ -1,0 +1,14 @@
+Id: 1
+Name: Xiaomi Redmi 6A 2/16GB Black
+Category: Phones
+Price: 2499
+
+Id: 2
+Name: Laptop Asus VivoBook D540NA-GQ211T
+Category: Laptops
+Price: 7999
+
+Id: 3
+Name: Soldering iron Intertool GB-0001
+Category: HourseWares
+Price: 155

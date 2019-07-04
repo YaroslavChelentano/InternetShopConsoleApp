@@ -1,0 +1,6 @@
+create table InternetShop(
+	id integer,
+	name text,
+	category text,
+	price text
+)
